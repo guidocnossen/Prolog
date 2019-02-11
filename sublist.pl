@@ -1,0 +1,1 @@
+sublist([Ha|Ta],[Hb|Tb]) :- Ha = Hb, Ta = Tb. 
